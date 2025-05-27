@@ -20,7 +20,7 @@ This Python script is a simple command-line authentication system that first val
 
 Install the required dependency using pip:
 - pip install twilio
-- 
+  
 ## 🧪 How It Works
 
 1. The user is prompted to enter a password.
